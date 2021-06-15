@@ -36,7 +36,7 @@ This downloads the required files and initializes the site.
 
 ## Update Contentstack secrets
 
-Copy the `.env.sample` file to `.env.development` and `.env.production` and update with your Contentstack details, including your API key and delivery token.
+Copy the `.env.sample` file to `.env.development` and `.env.production` and update with your Contentstack detail, including your API key and delivery token.
 
 It should end up looking something like:
 
